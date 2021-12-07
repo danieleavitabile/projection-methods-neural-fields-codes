@@ -1,4 +1,4 @@
-# projection-methods-neural-fields-codes
+# Projection Methods for Neural Fields (codes)
 
 This is a public repository with codes for the following paper:
 
